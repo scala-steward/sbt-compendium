@@ -108,7 +108,7 @@ object ProjectPlugin extends AutoPlugin {
       val pureconfig      = "0.12.3"
       val skeuomorph      = "0.0.23"
       val droste          = "0.8.0"
-      val scalameta       = "4.3.12"
+      val scalameta       = "4.3.13"
     }
 
     val clientSettings: Seq[Def.Setting[_]] = Seq(
